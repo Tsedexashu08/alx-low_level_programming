@@ -1,4 +1,4 @@
-#include "../holberton.h"
+#include "../positive_or_negative.c"
 #include <stdio.h>
 
 /**
