@@ -1,11 +1,5 @@
-#include "../0-putchar.c"
+#include "../_putchar"
 #include <stdio.h>
-
-/**
- * main - check the code for Holberton School students.
- *
- * Return: Always 0.
- */
 int main(void)
 {
 	char c;
